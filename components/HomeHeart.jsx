@@ -9,12 +9,12 @@ const HomeHeart = () => {
 
   const msgNo = [
     "No",
-    "Are you sure?",
-    "Really sure?",
-    "Please",
-    "But I really love you",
-    "But I really really love you",
-    "You're breaking my heart :(",
+    "ไม่ได้หรอ",
+    "ไม่ได้จริงๆหรอ",
+    "ได้โปรดเถอะน้า",
+    "ไม่ได้หรอ ไม่มีจะแดกแล้วน้า",
+    "สงสารกูเถอะ",
+    "ใจดำจังอะ",
     "เชอะ"
   ]
 
@@ -46,7 +46,7 @@ const HomeHeart = () => {
               <img src="https://media.tenor.com/vknNeIAWurIAAAAi/tkthao219-bear.gif" alt="bear-asking" className="w-full" />
             </div>
             <div className='my-20 text-lg font-semibold'>
-              <span>Do you love me?</span>
+              <span>ขอตังหน่อยได้ไหมค้าบบ</span>
             </div>
             <div className='flex justify-center items-center flex-wrap'>
               <button className={` m-5 bg-green-400 px-5 py-3 rounded-md hover:bg-green-500 font-semibold`} style={{ fontSize: yesButtonSize }} onClick={btnYes}>Yes</button>
