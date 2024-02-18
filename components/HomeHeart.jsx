@@ -46,7 +46,7 @@ const HomeHeart = () => {
               <img src="https://media.tenor.com/vknNeIAWurIAAAAi/tkthao219-bear.gif" alt="bear-asking" className="w-full" />
             </div>
             <div className='my-20 text-lg font-semibold'>
-              <span>เรามาคบกันมั้ยเธอ</span>
+              <span>Do you love me?</span>
             </div>
             <div className='flex justify-center items-center flex-wrap'>
               <button className={` m-5 bg-green-400 px-5 py-3 rounded-md hover:bg-green-500 font-semibold`} style={{ fontSize: yesButtonSize }} onClick={btnYes}>Yes</button>
