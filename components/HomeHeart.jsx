@@ -12,8 +12,8 @@ const HomeHeart = () => {
     "ไม่ได้หรอ",
     "ไม่ได้จริงๆหรอ",
     "ได้โปรดเถอะน้า",
-    "ไม่ได้หรอ ไม่มีจะแดกแล้วน้า",
-    "สงสารกูเถอะ",
+    "ไม่ได้หรอ ไม่มีจะกินแล้วน้า",
+    "สงสารหนูเถอะ",
     "ใจดำจังอะ",
     "เชอะ"
   ]
@@ -37,7 +37,7 @@ const HomeHeart = () => {
               <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" alt="yes-pic" className='w-full' />
             </div>
             <div className='my-20 text-lg font-semibold'>
-              <span>จุ๊บๆ จุ๊บๆ รักเธอที่สุดเลย</span>
+              <span>จุ๊บๆ จุ๊บๆ รักที่สุดเลย</span>
             </div>
           </>
         ) :
